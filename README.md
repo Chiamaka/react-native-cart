@@ -12,6 +12,4 @@ A shopping cart component for React Native
 4. Run on your iOS or Android simulator using `react-native run-ios` or `react-native run-android` respectively.
 
 # Contributing
-[Check this]('http://www.chiamaka.xyz/blog/post/ui-mockup-created/')
-
-https://raw.githubusercontent.com/chiamaka/react-native-cart/master/app/components/images/screenshots/1.png
+[Check this](http://www.chiamaka.xyz/blog/post/ui-mockup-created/)
