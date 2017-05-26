@@ -3,7 +3,7 @@ A shopping cart component for React Native
 
 
 # Screenshot of the UI
-![screenshot](app/components/images/screenshots/1.png)
+![screenshot](app/images/screenshots/1.png)
 
 # Getting Started
 1. Clone this repo unto your local machine using the following command: `git clone https://github.com/Chiamaka/react-native-cart.git`
@@ -13,3 +13,5 @@ A shopping cart component for React Native
 
 # Contributing
 [Check this]('http://www.chiamaka.xyz/blog/post/ui-mockup-created/')
+
+https://raw.githubusercontent.com/chiamaka/react-native-cart/master/app/components/images/screenshots/1.png
