@@ -1,0 +1,14 @@
+{
+    "extends" : "rallycoding",
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "globals": {
+        "fetch": true
+    },
+    "rules": {
+      "arrow-body-style": 0,
+      "no-underscore-dangle": 0
+    }
+}
